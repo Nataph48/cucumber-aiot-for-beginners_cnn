@@ -1,10 +1,10 @@
 # Cucumber AIoT for Beginners
 
-[![Open Documentation](https://img.shields.io/badge/📖_เข้าสู่เว็บไซต์บทเรียน-GitHub_Pages-2ea44f?style=for-the-badge)](https://nataph48.github.io/cucumber-aiot-for-beginners/)
+[![Open Documentation](https://img.shields.io/badge/📖_เข้าสู่เว็บไซต์บทเรียน-GitHub_Pages-2ea44f?style=for-the-badge)](https://nataph48.github.io/cucumber-aiot-for-beginners_cnn/)
 
 ชุดสื่อการเรียนรู้การสร้างระบบ **AIoT (Artificial Intelligence of Things)** ฉบับเริ่มต้น ด้วยการสร้าง **"ผู้ช่วยดูแลสภาพแวดล้อมในห้องอัจฉริยะ (Smart Room Assistant)"** โดยใช้บอร์ด **Cucumber (ESP32-S2)** ทำงานร่วมกับโมเดล **AI (Gemma 2)** บน Google Colab และสั่งงานด้วยภาษาไทยผ่าน **Telegram Bot**
 
-> **เว็บไซต์คู่มือการสอนฉบับเต็ม:** [https://nataph48.github.io/cucumber-aiot-for-beginners/](https://nataph48.github.io/cucumber-aiot-for-beginners/)
+> **เว็บไซต์คู่มือการสอนฉบับเต็ม:** [https://nataph48.github.io/cucumber-aiot-for-beginners_cnn/](https://nataph48.github.io/cucumber-aiot-for-beginners_cnn/)
 
 ---
 
@@ -56,7 +56,7 @@ cucumber-aiot-for-beginners/
 
 ## เริ่มต้นใช้งานอย่างรวดเร็ว (Quick Start)
 
-1. **อ่านคู่มือและบทเรียนทั้งหมดได้ที่:** [หน้าเว็บไซต์ GitHub Pages](https://nataph48.github.io/cucumber-aiot-for-beginners/)
+1. **อ่านคู่มือและบทเรียนทั้งหมดได้ที่:** [หน้าเว็บไซต์ GitHub Pages](https://nataph48.github.io/cucumber-aiot-for-beginners_cnn/)
 2. **ฝั่งบอร์ด (Firmware):** เปิดโฟลเดอร์ `firmware/` ด้วย VS Code (PlatformIO) แก้ไขชื่อ Wi-Fi และ `BOARD_ID` ใน `src/main.cpp` แล้วอัปโหลดลงบอร์ด Cucumber
 3. **ฝั่ง AI และบอท (Colab):** เปิดไฟล์ `ai/cucumber_aiot_bot.ipynb` บน Google Colab เลือก Runtime เป็น **T4 GPU** ใส่ `TELEGRAM_TOKEN` และกดรันทุก Cell
 
