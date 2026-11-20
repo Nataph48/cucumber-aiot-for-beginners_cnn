@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Cucumber AIoT for Beginners
+description: เรียนรู้ระบบ AIoT ด้วยบอร์ด Cucumber (ESP32-S2), AI บน Google Colab และ Telegram Bot
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
