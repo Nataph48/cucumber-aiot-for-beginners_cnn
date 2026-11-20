@@ -1,6 +1,6 @@
 # Cucumber AIoT for Beginners
 
-[![Open Documentation](https://img.shields.io/badge/📖_เข้าสู่เว็บไซต์บทเรียน-GitHub_Pages-2ea44f?style=for-the-badge)](https://YOUR_GITHUB_USERNAME.github.io/cucumber-aiot-for-beginners/)
+[![Open Documentation](https://img.shields.io/badge/📖_เข้าสู่เว็บไซต์บทเรียน-GitHub_Pages-2ea44f?style=for-the-badge)](https://nataph48.github.io/cucumber-aiot-for-beginners/)
 
 ชุดสื่อการเรียนรู้การสร้างระบบ **AIoT (Artificial Intelligence of Things)** ฉบับเริ่มต้น ด้วยการสร้าง **"ผู้ช่วยดูแลสภาพแวดล้อมในห้องอัจฉริยะ (Smart Room Assistant)"** โดยใช้บอร์ด **Cucumber (ESP32-S2)** ทำงานร่วมกับโมเดล **AI (Gemma 2)** บน Google Colab และสั่งงานด้วยภาษาไทยผ่าน **Telegram Bot**
 
